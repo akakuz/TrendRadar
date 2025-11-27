@@ -11,6 +11,8 @@ HarmonyOS
 
 比亚迪
 王传福
+电车
+智能驾驶
 
 大疆
 DJI
@@ -65,10 +67,12 @@ AMD
 google
 gemini
 deepmind
+banana
 
 chatgpt
 openai
 sora
+codex
 
 claude
 Anthropic
